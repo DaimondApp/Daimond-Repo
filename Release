@@ -1,0 +1,11 @@
+Origin: Diamond’s Cydia Repo
+Label: DaimomdApp
+Suite: stable
+Version: 1.0
+Codename: NuetronFile
+Architecture: iphoneos-arm
+Components: main
+Description: ProtonFile Best Repo for all Packages! Cydia + Sileo + Installer + Zebra! & Saily.
+MD5Sum:
+ aa1afc0b8619b9733bb43069ccd5c180 1680 Packages
+ ebb71d35e4bc54ba627594521734059c 938 Packages.bz2
