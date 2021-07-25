@@ -1,4 +1,4 @@
-Package: com.DaimondApp.github.io
+Package: com.daimondapp.github.io
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
 Section: Tweaks
@@ -17,7 +17,7 @@ Name: tempo App
 Author: Fahim Almas
 Depiction: https://ProtonFile.github.io/depic/jbzcarrier.html
 
-Package: com.DaimondApp.github.io
+Package: com.daimondapp.github.io
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
 Section: Tweaks
